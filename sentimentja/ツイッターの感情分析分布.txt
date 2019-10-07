@@ -1,0 +1,18 @@
+limit 1
+{'happy': 109, 'sad': 39, 'disgust': 127, 'angry': 65, 'fear': 58, 'surprise': 58}
+
+
+limit 20
+{'happy': 111, 'sad': 42, 'disgust': 127, 'angry': 64, 'fear': 61, 'surprise': 55}
+
+limit 100
+{'happy': 109, 'sad': 40, 'disgust': 124, 'angry': 69, 'fear': 61, 'surprise': 60}
+
+1199
+{'happy': 338, 'sad': 112, 'disgust': 413, 'angry': 193, 'fear': 184, 'surprise': 182}
+
+101977
+{'happy': 31153, 'sad': 9028, 'disgust': 33753, 'angry': 16177, 'fear': 17348, 'surprise': 15002}
+
+101100
+{'happy': 30267, 'sad': 8848, 'disgust': 33736, 'angry': 16076, 'fear': 17523, 'surprise': 14584}
