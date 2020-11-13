@@ -8,7 +8,7 @@ setup(name="sentimentja",
       packages=find_packages(),
       install_requires=[
           "keras==2.3.0",
-          "tensorflow==1.14.0"
+          "tensorflow==2.3.1"
       ],
       package_data={
           'sentimentja':["*"]
